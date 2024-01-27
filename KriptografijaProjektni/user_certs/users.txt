@@ -1,0 +1,4 @@
+sale $argon2id$v=19$m=19,t=2,p=1$m1SMgHFB/0kTzLLIJyLCBQ$pRvXMpBryDVn0V40+gdjOwedAkMVpUFNW7mJ588GaBU
+denk $argon2id$v=19$m=19,t=2,p=1$wzaC+DjqazuGbjCOEnL4Zg$gmLR1M6Iav7EfXmIqEXvDcNRqtWK/26xzM3oYvL4I98
+marko $argon2id$v=19$m=19,t=2,p=1$Akfbs5wZM5bmoR6XYL65BQ$5uyNqEJANkP0VXQoTRd9JHCit9v2cPTEbd6RELvdOBs
+petar $argon2id$v=19$m=19,t=2,p=1$VL63uCHJNFLtaxRzkOZy3w$pHljD3Gk9oTcmLIOu2i64zjkZBBPCwXq5KzZ0UF6z6Y
